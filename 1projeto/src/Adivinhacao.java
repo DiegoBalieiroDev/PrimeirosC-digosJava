@@ -8,7 +8,7 @@ public class Adivinhacao {
         int resultado = new Random().nextInt(100);
 
 
-        System.out.println("O resultado é "+ resultado);
+        //System.out.println("O resultado é "+ resultado);
         System.out.println("Bem vindo");
 
 
